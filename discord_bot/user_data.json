@@ -1,0 +1,31 @@
+{
+    "123456789012345678": {
+        "username": "exampleUser",
+        "messageCount": 10,
+        "lastMessage": "Hello there!"
+    },
+    "819094852100423740": {
+        "username": "higo9934",
+        "messageCount": 37,
+        "lastMessage": "으아ㅏ아아아앙",
+        "money": 1000000000
+    },
+    "1055639131658649692": {
+        "username": "king_bear7",
+        "messageCount": 212,
+        "lastMessage": "너도 얼른 자야지 건강해져",
+        "money": 10000
+    },
+    "962343287623123014": {
+        "username": "nyangkoni",
+        "messageCount": 55,
+        "lastMessage": "보냇어??",
+        "money": 4566000
+    },
+    "586187570560368642": {
+        "username": "kimhyeonu7080",
+        "messageCount": 9,
+        "lastMessage": "잘자",
+        "money": 10000
+    }
+}
